@@ -30,7 +30,7 @@
 ##Enviroment activation
 ```D:\AgenticAI\Project- Travel planner\AI_Trip_Planner\env\Scripts\activate.bat```  
 ##OR
-```env\Scripts\activate``
+```env\Scripts\activate```
 
 ##Show all installations
 ```uv pip list```
