@@ -2,43 +2,43 @@
 ### Check uv version
 ```uv --version```
 
-## Install uv if not already installed
+### Install uv if not already installed
 ```pip install uv```
 
-## Create project folder
+### Create project folder
 ```uv init AI_Travel_Planner```
 
-## Check all installations
+### Check all installations
 ```uv pip list ```
 
-## Show all python version
+### Show all python version
 ```uv python list ```
 
-## Create virtual environment with python 3.10.18
+### Create virtual environment with python 3.10.18
 ```uv venv env --python 3.10.18```
 
-## pandas installation example
+### pandas installation example
 ```uv add pandas``` 
 
-## Show all python version
+### Show all python version
 ```uv python list```
 
-## Install python version 3.10.18
+### Install python version 3.10.18
 ```uv python install 3.10.18```
 
-## Create virtual environment
+### Create virtual environment
 ```uv venv env --python 3.10.18```
 
-## Environment activation
+### Environment activation
 ```D:\AgenticAI\Project- Travel planner\AI_Trip_Planner\env\Scripts\activate.bat```  
-## Environment activation
+### Environment activation
 ```env\Scripts\activate```
 
-## Show all installations
+### Show all installations
 ```uv pip list```
 
-## Install langchain
+### Install langchain
 ```uv pip install langchain```
 
-## Show all command history
+### Show all command history
 ```doskey/history```
