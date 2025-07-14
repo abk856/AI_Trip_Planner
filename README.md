@@ -1,5 +1,5 @@
 
-## Check uv version
+### Check uv version
 ```uv --version```
 
 ## Install uv if not already installed
