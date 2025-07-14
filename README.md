@@ -7,6 +7,8 @@
 
 ##Create project folder
 ```uv init AI_Travel_Planner```
+
+## Check all installations
 ```uv pip list ```
 
 ##Show all python version
