@@ -42,3 +42,6 @@
 
 ### Show all command history
 ```doskey/history```
+
+### Requirements.txt installation
+```uv pip install -r requirements.txt```
