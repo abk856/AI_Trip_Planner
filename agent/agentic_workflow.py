@@ -31,12 +31,12 @@ class GraphBuilder:
         graph_builder.add_codition_edge("agent",tools_codition) 
         graph_builder.add_edge("tools", "agents")
         graph_builder.add_edge("agent", END)
-        
         self.graph = graph_builder.compile()
         return self.graph
     
     
-    def __call__(self, *args, **kwargs):
+    def __call__(self):
+        return self.build_graph()
      
     
     
